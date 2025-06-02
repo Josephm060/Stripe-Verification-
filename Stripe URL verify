@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Stripe Verification - TechCo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f6f9fc;
+      color: #333;
+      padding: 40px;
+    }
+    .container {
+      background: #fff;
+      padding: 30px;
+      border-radius: 8px;
+      max-width: 600px;
+      margin: auto;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #635bff;
+    }
+    a {
+      color: #635bff;
+    }
+    .info {
+      margin: 20px 0;
+    }
+    .info p {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome to Stripe Verification</h1>
+    <p>We're verifying the business details for:</p>
+
+    <div class="info">
+      <p><strong>Business Name:</strong> TechCo</p>
+      <p><strong>Product/Services:</strong> iPhones, iPhone Repairs</p>
+      <p><strong>Email:</strong> <a href="mailto:Williesearcy191@yahoo.com">Williesearcy191@yahoo.com</a></p>
+      <p><strong>Phone:</strong> <a href="tel:7066036428">(706) 603-6428</a></p>
+      <p><strong>Social/Website:</strong> 
+        <a href="https://www.instagram.com/t3chc0?igsh=Zm00dHVsNzk0d3pt&utm_source=qr" target="_blank">
+          Instagram.com/t3chc0
+        </a>
+      </p>
+    </div>
+
+    <p>This page confirms that the business has initiated Stripe onboarding and is in the process of verification.</p>
+
+    <p>If you need support, please contact us through the email provided above.</p>
+  </div>
+</body>
+</html>
